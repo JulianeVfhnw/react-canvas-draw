@@ -11,10 +11,10 @@ class Demo extends Component {
     height: 400,
     brushRadius: 10,
     lazyRadius: 12,
-    backgroundImg: "https://imgur.com/a/4Htu7gs",
+    backgroundImg: "https://i.imgur.com/aoYq2Pc.jpeg",
     imgs: [
-      "https://imgur.com/a/4Htu7gs",
-      "https://i.imgur.com/a0CGGVC.jpg"
+      "https://i.imgur.com/aoYq2Pc.jpeg",
+      "https://i.imgur.com/aoYq2Pc.jpeg"
     ]
   };
 
@@ -95,7 +95,7 @@ class Demo extends Component {
         </p>
         <CanvasDraw
           brushColor="rgba(155,12,60,0.3)"
-          imgSrc="https://imgur.com/a/4Htu7gs"
+          imgSrc="https://i.imgur.com/aoYq2Pc.jpeg"
         />
 
         <h2>Refreshable Background Image</h2>
