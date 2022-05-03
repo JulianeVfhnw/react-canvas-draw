@@ -11,9 +11,9 @@ class Demo extends Component {
     height: 400,
     brushRadius: 10,
     lazyRadius: 12,
-    backgroundImg: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nepalese_Mhapuja_Mandala.jpg",
+    backgroundImg: "https://imgur.com/a/4Htu7gs",
     imgs: [
-      "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nepalese_Mhapuja_Mandala.jpg",
+      "https://imgur.com/a/4Htu7gs",
       "https://i.imgur.com/a0CGGVC.jpg"
     ]
   };
@@ -95,7 +95,7 @@ class Demo extends Component {
         </p>
         <CanvasDraw
           brushColor="rgba(155,12,60,0.3)"
-          imgSrc="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nepalese_Mhapuja_Mandala.jpg"
+          imgSrc="https://imgur.com/a/4Htu7gs"
         />
 
         <h2>Refreshable Background Image</h2>
@@ -118,7 +118,7 @@ class Demo extends Component {
           enablePanAndZoom
           clampLinesToDocument
           gridColor="#ccc"
-          imgSrc="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nepalese_Mhapuja_Mandala.jpg"
+          imgSrc="https://imgur.com/a/4Htu7gs"
         />
         <h2>Save & Load</h2>
         <p>
